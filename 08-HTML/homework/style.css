@@ -1,0 +1,21 @@
+h1 {
+    color: darkblue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 1050px;
+    color: white;
+    padding: 50px;
+    background: darkblue;
+    line-height: 15px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+. {
+    text-align: center;
+}
